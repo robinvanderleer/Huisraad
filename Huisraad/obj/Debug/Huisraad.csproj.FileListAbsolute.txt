@@ -1,0 +1,6 @@
+c:\users\robin\documents\visual studio 2015\Projects\Huisraad\Huisraad\bin\Debug\Huisraad.exe.config
+c:\users\robin\documents\visual studio 2015\Projects\Huisraad\Huisraad\bin\Debug\Huisraad.exe
+c:\users\robin\documents\visual studio 2015\Projects\Huisraad\Huisraad\bin\Debug\Huisraad.pdb
+c:\users\robin\documents\visual studio 2015\Projects\Huisraad\Huisraad\obj\Debug\Huisraad.csprojResolveAssemblyReference.cache
+c:\users\robin\documents\visual studio 2015\Projects\Huisraad\Huisraad\obj\Debug\Huisraad.exe
+c:\users\robin\documents\visual studio 2015\Projects\Huisraad\Huisraad\obj\Debug\Huisraad.pdb
