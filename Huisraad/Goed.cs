@@ -13,7 +13,7 @@ namespace Huisraad
         protected double inkoopPrijs;
         protected string merk;
         protected string materiaal;
-        protected int vierkantheid;
+       
 
         public abstract double VerkoopPrijs(int jaren, double prijs);
         public abstract int getJaarOud();

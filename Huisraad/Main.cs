@@ -15,7 +15,7 @@ namespace Huisraad
             Goed g1 = new Tafel("de tafel", 2, 100.00, "Dinnermaster 2000", "Hout");
             Goed g2 = new Stoel("de eerste stoel", 3, 250.00, "Sitzaflex", "Textiel");
             Goed g3 = new Stoel("de eerste stoel", 5, 260.00, "Sitzaflex", "Karton");
-            Goed g4 = new Broodbakmachine("Barry de broodbakmachine", 500, 16.99, "Barri-o-matic", 4);
+            Goed g4 = new Broodbakmachine("Barry de broodbakmachine", 500, 16.99, "Barri-o-matic");
             Eigenaar hoofdbewoner = new Eigenaar("Robin van der Leer", "Bankstede 32");
 
             hoofdbewoner.voegGoedToe(g1);

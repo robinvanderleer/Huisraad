@@ -8,7 +8,7 @@ namespace Huisraad
 {
     class Broodbakmachine:Goed
     {
-        public Broodbakmachine(string naam, int jaar, double prijs, string merk, int vierkantheid)
+        public Broodbakmachine(string naam, int jaar, double prijs, string merk)
         {
             base.naam = naam;
             base.jaarOud = jaar;
